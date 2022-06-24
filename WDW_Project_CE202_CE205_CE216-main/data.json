@@ -1,0 +1,405 @@
+{
+    "languages" : [
+        {
+            "language" : "css",
+            "questions" : [
+                {
+                    "numb" : 1,
+                    "question" : "Which of the following property specifies whether an element is an accelerator indicator or not.",
+                    "answer" : "accelerator",
+                    "options" : [
+                        "move",
+                        "@keyframes",
+                        "accelerator",
+                        "none of the mentioned"
+                    ]
+                },
+                {
+                    "numb" : 2,
+                    "question" : "Which of the following property is used to define the animations that should be run?",
+                    "answer" : "animation-name",
+                    "options" : [
+                        "animation-delay",
+                        "animation-iteration-count",
+                        "animation-duration",
+                        "animation-name"
+                    ]
+                },
+                {
+                    "numb" : 3,
+                    "question" : "Which of the following property is used to define the number of times an animation should play?",
+                    "answer" : "animation-iteration-count",
+                    "options" : [
+                        "animation-direction",
+                        "animation-iteration-count",
+                        "animation",
+                        "animation-timing-function"
+                    ]
+                },
+                {
+                    "numb" : 4,
+                    "question" : "YWhich of the following property is used to indicate whether the backside of an element is visible if the element is rotated to display the back?",
+                    "answer" : "backface-visibility",
+                    "options" : [
+                        "background-clip",
+                        "backface-visibility",
+                        "behavior",
+                        "background-origin"
+                    ]
+                },
+                {
+                    "numb" : 5,
+                    "question" : "Which of the following property defines a relationship between bound elements(s) and some code or content?",
+                    "answer" : "binding",
+                    "options" : [
+                        "behavior",
+                        "anim",
+                        "binding",
+                        "none of the mentioneds"
+                    ]
+                }
+            ]
+        },
+        {
+            "language" : "python",
+            "questions" : [
+                {
+                    "numb" : 1,
+                    "question" : "Who developed Python Programming Language?",
+                    "answer" : "Guido van Rossum",
+                    "options" : [
+                        "Wick van Rossum",
+                        "Rasmus Lerdorf",
+                        "Guido van Rossum",
+                        "Niene Stom"
+                    ]
+                },
+                {
+                    "numb" : 2,
+                    "question" : "Which type of Programming does Python support?",
+                    "answer" : "all of the mentioned",
+                    "options" : [
+                        "object-oriented programming",
+                        "structured programming",
+                        "functional programming",
+                        "all of the mentioned"
+                    ]
+                },
+                {
+                    "numb" : 3,
+                    "question" : "Is Python case sensitive when dealing with identifiers?",
+                    "answer" : "no",
+                    "options" : [
+                        "no",
+                        "yes",
+                        "machine dependent",
+                        "none of the mentioned"
+                    ]
+                },
+                {
+                    "numb" : 4,
+                    "question" : "Which of the following is the correct extension of the Python file?",
+                    "answer" : "backface-visibility",
+                    "options" : [
+                        ".python",
+                        ".pl",
+                        ".py",
+                        ".p"
+                    ]
+                },
+                {
+                    "numb" : 5,
+                    "question" : "Is Python code compiled or interpreted?",
+                    "answer" : "Python code is neither compiled nor interpreted",
+                    "options" : [
+                        "Python code is both compiled and interpreted",
+                        "Python code is neither compiled nor interpreted",
+                        "Python code is only compiled",
+                        "Python code is only interpreted"
+                    ]
+                }
+            ]  
+        },
+        {
+            "language" : "nodejs",
+            "questions" : [
+                {
+                    "numb" : 1,
+                    "question" : "Which of the following is true about RESTful web services?",
+                    "answer" : "Both of the above",
+                    "options" : [
+                        "Webservices based on REST Architecture are known as RESTful web services",
+                        " Webservices uses HTTP methods to implement the concept of REST architecture",
+                        "Both of the above",
+                        "none of the mentioned"
+                    ]
+                },
+                {
+                    "numb" : 2,
+                    "question" : "The Node.js modules can be exposed using",
+                    "answer" : "module.exports",
+                    "options" : [
+                        "module.expose",
+                        "module",
+                        "module.exports",
+                        "All of the above"
+                    ]
+                },
+                {
+                    "numb" : 3,
+                    "question" : "In Nodejs how node based web servers differ from traditional web servers?",
+                    "answer" : "Node based server uses a single threaded model and can serve much larger number of requests compared to any traditional server like Apache HTTP Server.",
+                    "options" : [
+                        "Node based server uses a single threaded model and can serve much larger number of requests compared to any traditional server like Apache HTTP Server.",
+                        "Node based server process request much faster than traditional server.",
+                        "There is no much difference between the two.",
+                        "All of the above"
+                    ]
+                },
+                {
+                    "numb" : 4,
+                    "question" : "Which statement executes the code of sample.js file?",
+                    "answer" : "node sample.js",
+                    "options" : [
+                        "nodejs sample.js",
+                        "node sample.js",
+                        "sample.js",
+                        "None of the above"
+                    ]
+                },
+                {
+                    "numb" : 5,
+                    "question" : "What are the key features of Node.js?",
+                    "answer" : "All of the above",
+                    "options" : [
+                        "Real time Data intensive",
+                        "Highly scalable servers for Web Applications",
+                        " Builds fast and scalable network Applications",
+                        "All of the above"
+                    ]
+                },
+                {
+                    "numb" : 6,
+                    "question" : "Child processes always have three streams child.stdin, child.stdout, and child.stderr which may be shared with the stdio streams of the parent process.",
+                    "answer" : "false",
+                    "options" : [
+                        "false",
+                        "true",
+                        "All the above",
+                        "None"
+                    ]
+                }                
+            ]
+        },
+        {
+            "language" : "java",
+            "questions" : [
+                {
+                    "numb" : 1,
+                    "question" : "Which of these class have only one field ‘TYPE’?",
+                    "answer" : "Void",
+                    "options" : [
+                        "Void",
+                        "Process",
+                        "System",
+                        "Runtime"
+                    ]
+                },
+                {
+                    "numb" : 2,
+                    "question" : "Which of the following method of Process class can terminate a process?",
+                    "answer" : "void destroy()",
+                    "options" : [
+                        "void kill()",
+                        "void destroy()",
+                        "void terminate()",
+                        "void exit()"
+                    ]
+                },
+                {
+                    "numb" : 3,
+                    "question" : "Standard output variable ‘out’ is defined in which class?",
+                    "answer" : "System",
+                    "options" : [
+                        "Void",
+                        "Process",
+                        "Runtime",
+                        "System"
+                    ]
+                },
+                {
+                    "numb" : 4,
+                    "question" : "Which of the following is method of System class is used to find how long a program takes to execute?",
+                    "answer" : "currentTimeMillis()",
+                    "options" : [
+                        "currenttime()",
+                        "currentTime()",
+                        "currentTimeMillis()",
+                        "currenttimeMillis()"
+                    ]
+                },
+                {
+                    "numb" : 5,
+                    "question" : "Which of this method of class String is used to extract a substring from a String object?",
+                    "answer" : " substring()",
+                    "options" : [
+                        " substring()",
+                        "Substring()",
+                        "SubString()",
+                        "All of the above"
+                    ]
+                },
+                {
+                    "numb" : 6,
+                    "question" : "Which of the following statement is correct?",
+                    "answer" : "replace() method replaces all occurrences of one character in invoking string with another character",
+                    "options" : [
+                        "replace() method replaces all occurrences of one character in invoking string with another character",
+                        "replace() method replaces only first occurrences of a character in invoking string with another character",
+                        "replace() method replaces all the characters in invoking string with another character",
+                        "replace() method replaces last occurrence of a character in invoking string with another character"
+                    ]
+                }                
+            ]
+        },
+        {
+            "language" : "js",
+            "questions" : [
+                {
+                    "numb" : 1,
+                    "question" : "Which of the following is true?",
+                    "answer" : "If onKeyDown returns false, the key-press event is cancelled.",
+                    "options" : [
+                        "If onKeyDown returns false, the key-press event is cancelled.",
+                        "If onKeyPress returns false, the key-down event is cancelled.",
+                        "If onKeyDown returns false, the key-up event is cancelled.",
+                        "If onKeyDown returns false, the key-up event is cancelled."
+                    ]
+                },
+                {
+                    "numb" : 2,
+                    "question" : "Which best explains getSelection()?",
+                    "answer" : "Returns the value of cursor-selected text",
+                    "options" : [
+                        "Returns the VALUE of a selected OPTION.",
+                        "Returns document.URL of the window in focus.",
+                        "Returns the value of cursor-selected text",
+                        "Returns the VALUE of a checked radio input."
+                    ]
+                },
+                {
+                    "numb" : 3,
+                    "question" : "Choose the client-side JavaScript object:",
+                    "answer" : "FileUpLoad",
+                    "options" : [
+                        "Database",
+                        "Cursor",
+                        "Client",
+                        "FileUpLoad"
+                    ]
+                },
+                {
+                    "numb" : 4,
+                    "question" : "Javascript is a ________ typed language.",
+                    "answer" : "loosly",
+                    "options" : [
+                        "tightly",
+                        "loosly"
+                    ]
+                },
+                {
+                    "numb" : 5,
+                    "question" : "Javascript is a ________ typed language.",
+                    "answer" : " blur()",
+                    "options" : [
+                        "blur()",
+                        "focus()",
+                        "None"
+                    ]
+                },
+                {
+                    "numb" : 6,
+                    "question" : "What property would you use to redirect a visitor to another page?",
+                    "answer" : "window.location.href",
+                    "options" : [
+                        "document.URL",
+                        "window.location.href",
+                        ".document.location.href",
+                        "link.href"
+                    ]
+                }                
+            ]
+        },
+        {
+            "language" : "html5",
+            "questions" : [
+                {
+                    "numb" : 1,
+                    "question" : " __________Function displays the Latitude and Longitude in geoLocation in HTML5",
+                    "answer" : "showPosition()",
+                    "options" : [
+                        "showLocation()",
+                        "showPosition()",
+                        "both a and b",
+                        "showStatus()"
+                    ]
+                },
+                {
+                    "numb" : 2,
+                    "question" : "Which of the following browser supports HTML5 in its latest version?",
+                    "answer" : "Both of them",
+                    "options" : [
+                        "Apple Safari",
+                        "Google Chrome",
+                        "Both of them",
+                        "None of the above"
+                    ]
+                },
+                {
+                    "numb" : 3,
+                    "question" : "Which of the following tag represents a piece of content that is only slightly related to the rest of the page in HTML5?",
+                    "answer" : "aside",
+                    "options" : [
+                        "section",
+                        "article",
+                        "aside",
+                        "header"
+                    ]
+                },
+                {
+                    "numb" : 4,
+                    "question" : "Which of the following input control accepts only numerical value in Web Form 2.0?",
+                    "answer" : "number",
+                    "options" : [
+                        "week",
+                        "time",
+                        "number",
+                        "range"
+                    ]
+                },
+                {
+                    "numb" : 5,
+                    "question" : "Which of the following tag provides a hint to the user of what can be entered in the field in HTML5?",
+                    "answer" : " placeholder()",
+                    "options" : [
+                        "output",
+                        "placeholder",
+                        "autofocus",
+                        "required"
+                    ]
+                },
+                {
+                    "numb" : 6,
+                    "question" : "Which of the following is correct about geolocation api in HTML5?",
+                    "answer" : "All of the above",
+                    "options" : [
+                        "HTML5 Geolocation API lets you share your location with your favorite web sites.",
+                        " A Javascript can capture your latitude and longitude and can be sent to backend web server and do fancy location-aware things like finding local businesses or showing your location on a map.",
+                        "Today most of the browsers and mobile devices support Geolocation API.",
+                        "All of the above"
+                    ]
+                }                
+            ]  
+        }
+    ]
+}
